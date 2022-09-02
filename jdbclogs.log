@@ -1,0 +1,128 @@
+21:48:31.076 [main] ERROR fileLogger - Logging at error
+22:00:47.574 [main] DEBUG fileLogger - Get User from from Database:
+22:01:27.291 [main] DEBUG fileLogger - Get User from from Database: 
+22:01:29.448 [main] ERROR fileLogger - org.postgresql.util.PSQLException: ERROR: syntax error at or near "SELEC"
+  Position: 1
+22:01:55.982 [main] DEBUG fileLogger - Get User from from Database: 
+01:01:30.451 [main] DEBUG fileLogger - Get User from Database: 
+01:10:30.216 [main] DEBUG fileLogger - Get User from Database: 
+01:12:24.188 [main] DEBUG fileLogger - Get Account from Database with ID: 
+01:13:01.881 [main] DEBUG fileLogger - Get Account from Database with ID: 
+01:14:53.974 [main] DEBUG fileLogger - Get Account from Database with ID: 
+01:15:15.611 [main] DEBUG fileLogger - Get Account from Database with ID: 
+01:15:27.070 [main] DEBUG fileLogger - Get Account from Database with ID: 
+01:15:54.464 [main] DEBUG fileLogger - Get User from Database: 
+01:16:12.104 [main] DEBUG fileLogger - Get Account from Database with ID: 
+02:21:10.486 [main] DEBUG fileLogger - Get Account from Database with ID: 
+02:21:11.978 [main] DEBUG fileLogger - Get User from Database: 
+02:22:00.372 [main] DEBUG fileLogger - Get User from Database: 
+02:22:22.085 [main] DEBUG fileLogger - Get Account from Database with ID: 
+02:22:23.439 [main] DEBUG fileLogger - Get User from Database: 
+02:25:40.843 [main] DEBUG fileLogger - Get Account from Database with ID: 
+02:26:00.336 [main] DEBUG fileLogger - Get Account from Database with ID: 
+02:26:01.572 [main] DEBUG fileLogger - Get User from Database: 
+02:45:52.753 [main] DEBUG fileLogger - Get Account from Database with ID: 
+03:18:41.113 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:18:42.270 [main] DEBUG fileLogger - Get User from Database: 
+03:23:40.502 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:23:55.099 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:23:56.264 [main] DEBUG fileLogger - Get User from Database: 
+03:23:56.984 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:33:09.756 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:33:19.445 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:33:20.538 [main] DEBUG fileLogger - Retrieved User from Database
+03:33:21.184 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:33:21.825 [main] DEBUG fileLogger - Retrieved User from Database
+03:37:16.440 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:37:17.855 [main] DEBUG fileLogger - Retrieved User from Database
+03:37:35.019 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:37:36.193 [main] DEBUG fileLogger - Retrieved User from Database
+03:37:36.835 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:37:37.428 [main] DEBUG fileLogger - Retrieved User from Database
+03:41:25.692 [main] DEBUG fileLogger - Retrieved User from Database
+03:41:48.719 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:41:50.045 [main] DEBUG fileLogger - Retrieved User from Database
+03:41:50.653 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+03:41:51.322 [main] DEBUG fileLogger - Retrieved User from Database
+06:43:35.910 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+06:55:54.101 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+06:55:55.294 [main] DEBUG fileLogger - Account Owner Updated
+07:12:18.415 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:12:19.746 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:13:27.026 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:13:28.217 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:14:16.284 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:14:17.651 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:16:06.820 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:16:07.981 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:18:25.825 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:18:26.923 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:20:30.046 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:20:31.308 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:22:12.362 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:52:33.421 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:52:46.575 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:52:47.644 [main] DEBUG fileLogger - Retrieved User from Database
+07:52:48.175 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+07:52:48.704 [main] DEBUG fileLogger - Retrieved User from Database
+07:53:06.826 [main] DEBUG fileLogger - Retrieved User from Database
+08:52:01.443 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:52:02.616 [main] DEBUG fileLogger - Retrieved User from Database
+08:52:03.154 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:52:03.657 [main] DEBUG fileLogger - Retrieved User from Database
+08:52:13.152 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:52:39.908 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:52:55.504 [main] DEBUG fileLogger - Retrieved User from Database
+10:32:46.991 [main] DEBUG fileLogger - Retrieved User from Database
+10:33:11.649 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+10:33:16.443 [main] DEBUG fileLogger - Retrieved User from Database
+10:33:17.248 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+10:33:17.840 [main] DEBUG fileLogger - Retrieved User from Database
+10:33:36.749 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+10:33:41.239 [main] DEBUG fileLogger - Retrieved User from Database
+10:33:59.463 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:37:40.939 [main] DEBUG fileLogger - Retrieved User from Database
+08:38:06.180 [main] ERROR fileLogger - Logging at error
+08:38:15.549 [main] ERROR fileLogger - Logging at error
+08:38:23.004 [main] ERROR fileLogger - Logging at error
+08:38:29.642 [main] ERROR fileLogger - Logging at error
+08:38:36.287 [main] ERROR fileLogger - Logging at error
+08:38:41.702 [main] ERROR fileLogger - Logging at error
+08:38:47.548 [main] ERROR fileLogger - Logging at error
+08:38:52.250 [main] ERROR fileLogger - Logging at error
+08:38:57.657 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:39:02.956 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:39:17.583 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:39:25.254 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:39:33.161 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:39:39.361 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:39:46.460 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:39:52.562 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:40:02.139 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:40:07.754 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:40:15.688 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:40:23.229 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:40:30.479 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:40:37.812 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:40:45.151 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:40:58.005 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:41:05.369 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:41:06.441 [main] DEBUG fileLogger - Retrieved User from Database
+08:41:07.003 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:41:07.516 [main] DEBUG fileLogger - Retrieved User from Database
+08:41:28.548 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:41:29.626 [main] DEBUG fileLogger - Retrieved User from Database
+08:41:30.153 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+08:41:30.640 [main] DEBUG fileLogger - Retrieved User from Database
+14:00:41.611 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+14:00:43.410 [main] DEBUG fileLogger - Retrieved User from Database
+14:00:43.971 [main] DEBUG fileLogger - Retrieved Account from Database with ID
+14:00:44.540 [main] DEBUG fileLogger - Retrieved User from Database
+14:24:24.626 [main] DEBUG fileLogger - Retrieved User from Database
+14:27:16.393 [main] DEBUG fileLogger - Retrieved User from Database
+14:34:41.885 [main] DEBUG fileLogger - Retrieved User from Database
+14:37:32.845 [main] DEBUG fileLogger - Retrieved User from Database
+14:38:57.849 [main] DEBUG fileLogger - Retrieved User from Database
+14:39:34.195 [main] DEBUG fileLogger - Retrieved User from Database
+14:40:49.678 [main] DEBUG fileLogger - Retrieved User from Database
+14:51:26.436 [main] DEBUG fileLogger - Retrieved User from Database
